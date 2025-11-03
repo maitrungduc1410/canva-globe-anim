@@ -1,0 +1,188 @@
+body,
+html,
+#app {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  --4h-m_A: dark;
+  --Zpa-KA: #00c4cc;
+  --eGVbng: #8b3dff;
+  --M5_pvA: #7731d8;
+  --boKKWg: #612dae;
+  --oqurdw: hsla(0, 0%, 100%, 0.07);
+  --d1p99w: #fff;
+  --17LfHw: hsla(0, 0%, 100%, 0.4);
+  --EgWgfg: hsla(0, 0%, 100%, 0);
+  --X3--Zg: hsla(0, 0%, 100%, 0.07);
+  --xfy86Q: hsla(0, 0%, 100%, 0.15);
+  --p53f_Q: hsla(0, 0%, 100%, 0);
+  --REcY5g: #fff;
+  --XajtPQ: hsla(0, 0%, 100%, 0.4);
+  --FVk7Ew: rgba(165, 112, 255, 0.3);
+  --2-zmYA: rgba(165, 112, 255, 0.3);
+  --ySYdsQ: rgba(165, 112, 255, 0.2);
+  --aMXh3A: hsla(0, 0%, 100%, 0.15);
+  --_RN1Dg: #fff;
+  --8fGzbw: hsla(0, 0%, 100%, 0.4);
+  --ob8tTA: hsla(0, 0%, 100%, 0);
+  --MghLXQ: hsla(0, 0%, 100%, 0.07);
+  --3R4u8w: hsla(0, 0%, 100%, 0.15);
+  --TwiLcg: hsla(0, 0%, 100%, 0);
+  --QeQ0Dw: #fff;
+  --TZOI7A: hsla(0, 0%, 100%, 0.4);
+  --SZMkXA: rgba(165, 112, 255, 0.3);
+  --1zesEA: rgba(165, 112, 255, 0.3);
+  --AMxRgw: rgba(165, 112, 255, 0.2);
+  --BZ60Jw: hsla(0, 0%, 100%, 0.15);
+  --8Ex5gA: #fff;
+  --spIP2A: hsla(0, 0%, 100%, 0.4);
+  --KtXlRg: rgba(17, 23, 29, 0.6);
+  --QADODw: rgba(13, 18, 22, 0.7);
+  --kTBxcw: rgba(13, 18, 22, 0.86);
+  --HxK_kw: rgba(17, 23, 29, 0.6);
+  --6u-yJQ: #fff;
+  --J0YKvA: hsla(0, 0%, 100%, 0.4);
+  --yrvb-A: hsla(0, 0%, 100%, 0.15);
+  --nwNs8w: hsla(0, 0%, 100%, 0.3);
+  ---tf09g: hsla(0, 0%, 100%, 0.15);
+  --x0GzuQ: hsla(0, 0%, 100%, 0.15);
+  --VfoYEg: #fff;
+  --nbAwww: hsla(0, 0%, 100%, 0.4);
+  --Shm3YQ: hsla(0, 0%, 100%, 0.07);
+  --z7Xq7A: hsla(0, 0%, 100%, 0.15);
+  --m9sa8w: hsla(0, 0%, 100%, 0.2);
+  --aj4L_w: hsla(0, 0%, 100%, 0.07);
+  --pj2xMA: #fff;
+  --3YOFOw: hsla(0, 0%, 100%, 0.4);
+  --c23L8g: #8b3dff;
+  --scq9vQ: #4a2e7f;
+  --feCw5g: #fff;
+  --FMoRFg: #fff;
+  --7psRVw: #008008;
+  --QVtuYg: #36a137;
+  --71VQUQ: #096d11;
+  --Lf8mkA: hsla(0, 0%, 100%, 0.07);
+  --Ii7YFw: #16461a;
+  --W6KtsA: #fff;
+  --WCLNrQ: #fff;
+  --Unijpw: hsla(0, 0%, 100%, 0.4);
+  --DXueYw: #1962ff;
+  --3KQj6A: #3d8bff;
+  --Czi__Q: #1855d8;
+  ---vsWXQ: hsla(0, 0%, 100%, 0.07);
+  --pYULlw: #1d3b7c;
+  --MjnIDA: #fff;
+  --v7HVIg: #fff;
+  --vD3B3g: hsla(0, 0%, 100%, 0.4);
+  --23ZOVQ: #ad5a00;
+  --VbVKHg: #d17600;
+  --zvQOHA: #944f05;
+  --21KaLA: hsla(0, 0%, 100%, 0.07);
+  --ydZUSA: #563715;
+  --5uESMg: #fff;
+  --OQ2gpA: #fff;
+  --87SmIg: hsla(0, 0%, 100%, 0.4);
+  --jTT_jQ: #db142c;
+  --2hPbag: #fd4958;
+  --nRrzRQ: #b61629;
+  ---Xfh1Q: hsla(0, 0%, 100%, 0.07);
+  --1MO0IQ: #721d27;
+  --eLjurg: #fff;
+  --fs4QpA: #fff;
+  ---Evg2A: hsla(0, 0%, 100%, 0.4);
+  --Tp54Vw: #0d1216;
+  --pf_JRQ: rgba(13, 18, 22, 0.7);
+  --ys5XGg: rgba(13, 18, 22, 0);
+  --dVucJw: #18191b;
+  --u6VULg: rgba(24, 25, 27, 0.7);
+  --cm5OeQ: rgba(24, 25, 27, 0);
+  --C-q6Ig: #18191b;
+  --Pj6GZQ: rgba(24, 25, 27, 0.7);
+  --r6MHXQ: rgba(24, 25, 27, 0);
+  --4RaSjg: #252627;
+  --F6F2NQ: rgba(37, 38, 39, 0.7);
+  --389KIw: rgba(37, 38, 39, 0);
+  --VNXpSw: hsla(0, 0%, 100%, 0.9);
+  --5F8MFw: hsla(0, 0%, 100%, 0.8);
+  --JEAqPw: hsla(0, 0%, 100%, 0.7);
+  --3V_biw: hsla(0, 0%, 100%, 0.5);
+  --P69qRQ: #61bd62;
+  --fg0S1Q: #6ba9ff;
+  --MRX9rw: #ec9909;
+  --bk41Zw: #fd4958;
+  --kTTJvw: #ff8088;
+  --llP47A: #fd4958;
+  ---8UyGw: #a570ff;
+  ---1ShxA: #bc97fc;
+  --FFgy5g: #a570ff;
+  --Zya5eQ: hsla(0, 0%, 100%, 0.2);
+  --9_Lxmw: hsla(0, 0%, 100%, 0.5);
+  --xAYPzA: #a570ff;
+  --VjFOWQ: hsla(0, 0%, 100%, 0.15);
+  --nOtbOg: #fd4958;
+  --OuCkCQ: hsla(0, 0%, 100%, 0.15);
+  ---UopgA: hsla(0, 0%, 100%, 0.4);
+  --620Maw: var(--Zya5eQ);
+  --TBPmDQ: var(--xAYPzA);
+  --UzSy6g: var(--VjFOWQ);
+  --olfr3Q: rgba(28, 39, 48, 0.5);
+  background: radial-gradient(
+      ellipse 72% 150% at 50% 100%,
+      var(--C-q6Ig),
+      var(--r6MHXQ)
+    ),
+    linear-gradient(
+      to bottom,
+      var(--r6MHXQ) 0%,
+      var(--r6MHXQ) 9.5%,
+      var(--C-q6Ig) 94%
+    ),
+    linear-gradient(rgba(24, 25, 27, 0.4), rgba(24, 25, 27, 0.4)),
+    linear-gradient(to bottom, var(--r6MHXQ) 0%, var(--C-q6Ig) 100%),
+    linear-gradient(to right, var(--Zpa-KA) 0%, #6f00ff 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* full screen globe animation background */
+.wDupLw {
+  position: absolute;
+  background: radial-gradient(
+    circle,
+    rgb(153, 43, 255) 10%,
+    rgb(90, 50, 250) 20%,
+    rgb(19, 163, 181) 30%,
+    rgba(156, 234, 247, 0.64) 40%,
+    rgba(255, 255, 255, 0) 50%
+  );
+  height: 185%;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%) scale(0);
+  width: 185%;
+  z-index: 5;
+  border-radius: 50%;
+
+  animation-delay: 0s;
+  animation-direction: normal;
+  animation-duration: 1.4s;
+  animation-fill-mode: forwards;
+  animation-name: CSZT1Q;
+  animation-timing-function: cubic-bezier(0.28, 0.61, 0.67, 1.03);
+  transform-origin: center center;
+}
+
+@keyframes CSZT1Q {
+  0% {
+    transform: translate(-50%, -50%) scale(0);
+  }
+
+  100% {
+    transform: translate(-50%, -50%) scale(1.7);
+  }
+}
